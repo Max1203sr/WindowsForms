@@ -1,0 +1,11 @@
+D:\3 курс\C# .net\Project\WindowsFormsHW\WindowsFormsHW\bin\Debug\WindowsFormsHW.exe.config
+D:\3 курс\C# .net\Project\WindowsFormsHW\WindowsFormsHW\bin\Debug\WindowsFormsHW.exe
+D:\3 курс\C# .net\Project\WindowsFormsHW\WindowsFormsHW\bin\Debug\WindowsFormsHW.pdb
+D:\3 курс\C# .net\Project\WindowsFormsHW\WindowsFormsHW\obj\Debug\WindowsFormsHW.csproj.AssemblyReference.cache
+D:\3 курс\C# .net\Project\WindowsFormsHW\WindowsFormsHW\obj\Debug\WindowsFormsHW.csproj.SuggestedBindingRedirects.cache
+D:\3 курс\C# .net\Project\WindowsFormsHW\WindowsFormsHW\obj\Debug\WindowsFormsHW.Form1.resources
+D:\3 курс\C# .net\Project\WindowsFormsHW\WindowsFormsHW\obj\Debug\WindowsFormsHW.Properties.Resources.resources
+D:\3 курс\C# .net\Project\WindowsFormsHW\WindowsFormsHW\obj\Debug\WindowsFormsHW.csproj.GenerateResource.cache
+D:\3 курс\C# .net\Project\WindowsFormsHW\WindowsFormsHW\obj\Debug\WindowsFormsHW.csproj.CoreCompileInputs.cache
+D:\3 курс\C# .net\Project\WindowsFormsHW\WindowsFormsHW\obj\Debug\WindowsFormsHW.exe
+D:\3 курс\C# .net\Project\WindowsFormsHW\WindowsFormsHW\obj\Debug\WindowsFormsHW.pdb
